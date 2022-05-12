@@ -1,6 +1,6 @@
 # Best Performance of LSTM-based DL model
 
-<center>![fig1](figures/fig1.png)  </center>
+<center>![fig1](.figures/fig1.png)  </center>
 <br>
 <font size = 5 face = 'times_new_roman'><center>__Figure 1. Loss by epoch, for validation data (red) and training data (blue).__</center></font>   
 <br>
